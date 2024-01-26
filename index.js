@@ -1,5 +1,4 @@
 const express = require("express");
-const { todo } = require("./db");
 const app = express();
 const port = process.env.PORT || 3000;
 
