@@ -1,1 +1,1 @@
-#Practice Server to host on Vercel
+# Practice Server to be hosted on Vercel
